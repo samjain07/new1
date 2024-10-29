@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0f4e6745c32156103fc8502ed40131d2" label="User" max_length="40" name="x_1521157_gitdemo_user" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="First Name" max_length="40" name="firstname" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0164141cc36512103fc8502ed40131f3" label="Employee Data" max_length="40" name="x_1521157_gitdemo_employee_data" type="collection">
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+    </element>
+</database>
